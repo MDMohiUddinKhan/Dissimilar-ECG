@@ -1,5 +1,5 @@
 # Hand picked dissimilar ECG report images from the whole dataset
-## Supplementary Material for the following article:  https://doi.org/10.48550/arXiv.2109.07846
+## This repository is for the Supplementary Material regarding following article:  https://doi.org/10.48550/arXiv.2109.07846
 
 ## Original dataset: https://doi.org/10.1016/j.dib.2021.106762
 
