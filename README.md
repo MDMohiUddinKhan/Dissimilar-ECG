@@ -1,10 +1,9 @@
 # Hand picked dissimilar ECG report images from the whole dataset
-Supplementary Material for the Paper:  https://doi.org/10.48550/arXiv.2109.07846
+## Supplementary Material for the following article:  https://doi.org/10.48550/arXiv.2109.07846
 
-# Original dataset
-DOI: https://doi.org/10.1016/j.dib.2021.106762
+## Original dataset: https://doi.org/10.1016/j.dib.2021.106762
 
-# Citation
+## Citation
 If you find this article useful in your research, please consider citing:
 
 @misc{https://doi.org/10.48550/arxiv.2109.07846,
